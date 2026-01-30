@@ -1,13 +1,22 @@
 {
+<<<<<<< HEAD
   "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
+=======
+  "short_name": "Ionic App",
+  "name": "My Ionic App",
+  "icons": [
+    {
+      "src": "assets/icon/favicon.png",
+>>>>>>> 81a08c0 (Initial commit)
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
+<<<<<<< HEAD
       "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
@@ -16,10 +25,20 @@
       "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
+=======
+      "src": "assets/icon/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+>>>>>>> 81a08c0 (Initial commit)
     }
   ],
   "start_url": ".",
   "display": "standalone",
+<<<<<<< HEAD
   "theme_color": "#000000",
+=======
+  "theme_color": "#ffffff",
+>>>>>>> 81a08c0 (Initial commit)
   "background_color": "#ffffff"
 }

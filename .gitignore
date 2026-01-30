@@ -9,7 +9,11 @@
 /coverage
 
 # production
+<<<<<<< HEAD
 /build
+=======
+/dist
+>>>>>>> 81a08c0 (Initial commit)
 
 # misc
 .DS_Store
@@ -17,7 +21,21 @@
 .env.development.local
 .env.test.local
 .env.production.local
+<<<<<<< HEAD
+=======
+/.nx
+/.nx/cache
+/.vscode/*
+!/.vscode/extensions.json
+.idea
+>>>>>>> 81a08c0 (Initial commit)
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
+=======
+
+# Optional eslint cache
+.eslintcache
+>>>>>>> 81a08c0 (Initial commit)
